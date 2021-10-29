@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200px" src="img/readme.png">
+    <img width="200px" src="img/example.gif">
 </p>
 
 # <img width="25px" src="img/profile.png"> DiscordStocks
