@@ -2,9 +2,9 @@
     <img width="200px" src="img/readme.png">
 </p>
 
-# <img width="50px" src="img/profile.png"> DiscordStocks
+# <img width="25px" src="img/profile.png"> DiscordStocks
 
-Discord bot for asking down stock prices
+Discord bot for asking down various informations about stocks. Based on the free [Alpha Vantage](https://www.alphavantage.co) API.
 
 ## Prerequisites
 
@@ -21,7 +21,7 @@ DISCORD_GUILD=...
 ALPHA_VANTAGE_API_KEY=...
 ```
 
-## Starting up the bot
+## Usage
 
 To start the bot you need to run this command:
 
